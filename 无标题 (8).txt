@@ -1,0 +1,5 @@
+编码格式问题
+sublime与vs2012编码格式不同
+vs2012使用GB2312编码加载
+sublime使用UTF-8编码
+解决方法sublime->File->Set File Encoding to->GBK

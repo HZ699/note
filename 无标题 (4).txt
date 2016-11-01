@@ -1,0 +1,7 @@
+sublime的插件使用
+Emmet
+Alignment
+Trimmer
+FileDiffs
+DocBlockr
+Snippets
